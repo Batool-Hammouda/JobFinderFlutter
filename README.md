@@ -1,16 +1,14 @@
-# job_finder
+📱 Screenshots
+Splash Screen	Login	Welcome	Signup	Application View
 
-A new Flutter project.
+📌 Note: Make sure all images are saved in your project at assets/screenshots/ with the exact filenames:
 
-## Getting Started
+splash_screen.png
 
-This project is a starting point for a Flutter application.
+login.png
 
-A few resources to get you started if this is your first Flutter project:
+welcome.png
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+signup.png
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+application_view.png
