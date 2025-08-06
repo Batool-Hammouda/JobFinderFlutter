@@ -13,11 +13,11 @@ A **Flutter-based Job Finder App** integrated with **Firebase**, featuring a cle
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-| Splash Screen | Login | Welcome | Signup | Application View |
-|:-------------:|:-----:|:-------:|:------:|:----------------:|
-| ![Splash Screen](assets/screenshots/splash_screen.png) | ![Login](assets/screenshots/login.png) | ![Welcome](assets/screenshots/welcome.png) | ![Signup](assets/screenshots/signup.png) | ![Application View](assets/screenshots/application_view.png) |
+| Splash Screen | Login | Welcome | Application View | Signup |
+|---------------|-------|---------|------------------|--------|
+| ![Splash Screen](screenshots/splash_screen.png) | ![Login](screenshots/login.png) | ![Welcome](screenshots/welcome.png) | ![Application View](screenshots/application_view.png) | ![Signup](screenshots/signup.png) |
 
 > 📌 **Note:** Images must be placed in your project at `assets/screenshots/` with the exact filenames:
 > - `splash_screen.png`
